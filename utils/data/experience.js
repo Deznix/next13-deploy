@@ -9,6 +9,6 @@ export const experiences = [
     id: 2,
     title: "Front-end Developer",
     company: "Greeniit",
-    duration: "(Jun 2021 - Jan 2022)"
+    duration: "(April 2018 - June 2023)"
   }
 ]
