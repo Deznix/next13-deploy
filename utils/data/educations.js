@@ -3,13 +3,13 @@ export const educations = [
     id: 1,
     title: "LAMP Internship",
     duration: "2017 - 2018",
-    institution: "National University of Bangladesh",
+    institution: "Keltron Knowledge Center, Calicut",
   },
   {
     id: 2,
     title: "Bachelor Degree",
     duration: "2014 - 2017",
-    institution: "Donbosco collage Mukkam",
+    institution: "Donbosco collage Mukkam, Calicut",
   },
   {
     id: 3,
