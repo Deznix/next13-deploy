@@ -10,7 +10,6 @@ export const skillsData = [
   'MySQL',
   'Wordpress',
   'Git',
-  'Canva',
   'Firebase',
   'Figma',
   'Illustrator',
