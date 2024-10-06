@@ -7,5 +7,5 @@ export const contactsData = {
     linkedIn: 'https://www.linkedin.com/in/suhail1997/',
     twitter: 'https://www.instagram.com/muhammedsuhail.in/',
     stackOverflow: '#',
-    devUsername: "said7388"
+    devUsername: "#"
 }
