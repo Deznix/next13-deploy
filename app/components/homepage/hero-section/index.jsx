@@ -115,7 +115,7 @@ function HeroSection() {
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Figma</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Illustrator</span>
+                <span className="text-amber-300">Git</span>
                 <span className="text-gray-400">{"'],"}</span>
               </div>
               <div>

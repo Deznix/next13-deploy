@@ -1,10 +1,16 @@
 "use client";
-// @flow strict
+
 import { isValidEmail } from '@/utils/check-email';
 import emailjs from '@emailjs/browser';
 import axios from 'axios';
 import { useState } from 'react';
-import ReCAPTCHA from 'react-google-recaptcha';
+import dynamic from 'next/dynamic';
+
+const ReCAPTCHA = dynamic(
+  () => import('react-google-recaptcha'),
+  { ssr: false }
+);
+
 import { TbMailForward } from "react-icons/tb";
 import { toast } from 'react-toastify';
 
